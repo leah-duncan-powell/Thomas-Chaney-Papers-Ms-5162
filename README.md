@@ -13,7 +13,7 @@ This data is open under a Creative Commons Licence (https://creativecommons.org/
 ## How can someone use this data?
 For examples of using LDL as Data, see https://louisianadigitallibrary.org/LDLasData/sample-tutorials.
 
-## are there any ethical considerations when working with this data?
+## Are there any ethical considerations when working with this data?
 Yes! Thank you for asking. Whenever working with cultural heritage data we always want to think about the ethical ramifications of our work. For an overview of what some of these consderations are, please see the #LDLasData Speaker Series: https://www.youtube.com/playlist?list=PLCxbFe0W17cPkkJ0MbnN2uA2QlLT_TPA0
 
 ## Are there other resources on using digital cultural heritage content in different settings?
